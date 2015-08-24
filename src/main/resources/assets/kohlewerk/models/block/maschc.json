@@ -1,0 +1,15 @@
+{
+    "parent": "block/cube",
+    "textures": {
+    
+    
+        "particle": "kohlewerk:blocks/maschc_top",
+        "up": "kohlewerk:blocks/maschc_top",
+        "down": "kohlewerk:blocks/maschc_side",
+        "north": "kohlewerk:blocks/maschc_front",
+        "south": "kohlewerk:blocks/maschc_side",
+        "west": "kohlewerk:blocks/maschc_side",
+        "east": "kohlewerk:blocks/maschc_side"
+    
+    }
+}
